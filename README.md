@@ -6,7 +6,7 @@
 #### I am nothing
 I am always trying to learn. I want to be a good developer
 
-Skills: REACT / JS / HTML / CSS / MongoDB / EXPRESS / NODE JS
+Skills: C / c++ / Java opp / python / REACT / JS / MongoDB / EXPRESS / NODE JS
 
 - 🔭 I’m currently working on Problem solving 
 - 🌱 I’m currently learning MERN Development 
