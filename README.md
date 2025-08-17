@@ -2,7 +2,7 @@
 ---
 
 ##  About Me  
-I'm Sandipon, a **Computer Science student at Presidency University** with a strong interest in **problem-solving** and **learning new technologies**.  
+I'm Sandipon, a Computer Science student  with a strong interest in **problem-solving** and **learning new technologies**.  
 I enjoy adapting quickly to challenges and working on diverse projects, especially in **competitive programming** and **web development**.  
 
 ---
