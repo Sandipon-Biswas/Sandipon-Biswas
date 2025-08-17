@@ -1,30 +1,101 @@
+#  Hi, I'm Sandipon Biswas  
+---
+
+##  About Me  
+I'm Sandipon, a **Computer Science student at Presidency University** with a strong interest in **problem-solving** and **learning new technologies**.  
+I enjoy adapting quickly to challenges and working on diverse projects, especially in **competitive programming** and **web development**.  
+
+---
 
 
-![I am nothing]()
-### Hi there 👋, my name is Sandipon
+##  Competitive Programming  
 
-#### I am nothing
-I am always trying to learn. I want to be a good developer
-
-Skills: C / c++ / Java opp / python / REACT / JS / MongoDB / EXPRESS / NODE JS
-
-- 🔭 I’m currently working on Problem solving 
-- 🌱 I’m currently learning MERN Development 
-- 💬 Ask me about web development 
+<p align="left">
+  <img width="25" src="https://cdn-icons-png.flaticon.com/128/13441/13441794.png"/> <b>400+ problems solved on Codeforces (Rating: 1000+)</b>  
+</p>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sandipon-Biswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sandipon-biswas-041102203/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ostir.mon.3139)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Sandipon-Biswas-the-vuer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/sandipon-biswas)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sandipon-Biswas)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left">
+  <img width="25" src="https://cdn-icons-png.flaticon.com/128/1085/1085785.png"/> <b>Passionate about Data Structures & Algorithms (DSA) </b>  
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandipon-Biswas&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sandipon-Biswas)  
+<p align="left">
+  <img width="25" src="https://cdn-icons-png.flaticon.com/128/4248/4248245.png"/> <b> Object-Oriented Programming (OOP)</b>  
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/Sandipon-Biswas)  
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Sandipon-Biswas)  
+## 🎯 Onsite Contest Participation  
 
-![Profile views](https://gpvc.arturio.dev/Sandipon-Biswas)  
+<table>
+<tr>
+<td><img src="https://profile.duet.ac.bd/public/img/logo.png" width="50"></td>
+<td><b>Betopia Group Presents DUET Inter University Programming Contest (IUPC) 2025</b></td>
+</tr>
+
+<tr>
+<td><img src="https://uttarauniversity.edu.bd/wp-content/uploads/2023/07/cropped-uufev.png" width="50"></td>
+<td><b>Uttara University Programming Contest (IUPC)</b></td>
+</tr>
+
+<tr>
+<td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dhaka_University_logo.svg/1200px-Dhaka_University_logo.svg.png" width="50"></td>
+<td><b>Dhaka University AI Challenge 2025</b></td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Skills  
+
+### 🔹 Programming Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,php,mysql" />
+</p>
+
+### 🔹 Web Development  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+</p>
+
+### 🔹 Core Concepts  
+- 📘 Data Structures & Algorithms (DSA)  
+- ⚙️ Object-Oriented Programming (OOP)  
+
+---
+
+## 📊 Languages Usage  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipon-Biswas&layout=pie&theme=tokyonight" alt="Languages Pie Chart" />
+</p>
+
+---
+
+## 🎓 Education  
+- 🎓 **BSc in CSE, Presidency University** – CGPA: `3.67`  
+- 🏫 **HSC, Adil Uddin College** — GPA: `5.00`  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandipon-Biswas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandipon-Biswas&theme=tokyonight" alt="Streak Stats" />
+</p>
+
+---
+📧 **Email:** sandipon08@gmail.com | 📱 **Phone:** 01331646494  
+🔗 **Profiles:**  
+[![Codeforces](https://img.shields.io/badge/Codeforces-sandipon08-orange?logo=codeforces)](https://codeforces.com/profile/sandipon08)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-sandipanbiswas4141-yellow?logo=leetcode)](https://leetcode.com/u/sandipanbiswas4141/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sandipon08-blue?logo=linkedin)](https://www.linkedin.com/in/sandipon08/)  
+![Profile Views](https://komarev.com/ghpvc/?username=Sandipon-Biswas&label=Profile%20Views&color=0e75b6&style=flat)
+
+⭐️ From [Sandipon-Biswas](https://github.com/Sandipon-Biswas)
